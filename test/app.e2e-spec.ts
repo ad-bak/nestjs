@@ -79,21 +79,21 @@ describe('App e2e', () => {
     });
   });
 
-  describe('User', () => {
-    describe('Get the user', () => {});
+  // describe('User', () => {
+  //   describe('Get the user', () => {});
 
-    describe('Edit user', () => {});
-  });
+  //   describe('Edit user', () => {});
+  // });
 
-  describe('Bookmarks', () => {
-    describe('Create a bookmark', () => {});
+  // describe('Bookmarks', () => {
+  //   describe('Create a bookmark', () => {});
 
-    describe('Get all bookmarks', () => {});
+  //   describe('Get all bookmarks', () => {});
 
-    describe('Get a bookmark', () => {});
+  //   describe('Get a bookmark', () => {});
 
-    describe('Edit a bookmark', () => {});
+  //   describe('Edit a bookmark', () => {});
 
-    describe('Delete a bookmark', () => {});
-  });
+  //   describe('Delete a bookmark', () => {});
+  // });
 });
